@@ -1,1 +1,1 @@
-# starter-rocketseat
+# js-starter-rocketseat
